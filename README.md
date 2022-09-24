@@ -1,4 +1,4 @@
-# js_iterator
+# js_iteraable
 
 js iterable:-
  1. Array
